@@ -13,7 +13,7 @@ The **account holder** : withdraw money from the account and deposit money into 
 1. The administrator logs into the application and sees a list of all accounts.
 It has the ability to block the account or unblock it. He does not perform any more actions.
 
-2. The account holder. Log in to the app and only sees his account.
+2. The account holder. Login to the app and only sees his account.
 Implement 2 operations: balance fulfillment and money withdrawal. 
 If the account is blocked, then no transactions can be performed out.
 
